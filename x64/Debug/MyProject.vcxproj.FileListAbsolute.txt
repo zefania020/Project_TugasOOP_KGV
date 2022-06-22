@@ -1,0 +1,4 @@
+D:\KGV\Project\MyProject\x64\Debug\MyProject.exe
+D:\KGV\Project\MyProject1\x64\Debug\MyProject.exe
+D:\KGV\Project\MyProject2\x64\Debug\MyProject.exe
+D:\Data Aplikasi\Visual Studio\Project\MyProject2\x64\Debug\MyProject.exe
